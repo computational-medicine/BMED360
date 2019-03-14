@@ -4,9 +4,9 @@
 
 This is the repository for the course [BMED360](https://www.uib.no/en/course/BMED360) given at the Departmnet of Biomedicone (*)
 
-
-
 Here you find code and documentation for the course. 
+
+The goal of this course is to obtain theoretical and practical knowledge on functional and quantitative in vivo imaging in man and animal using magnetic resonance imaging (MRI) and computer-based image analysis. The focus is on brain imaging (perfusion, diffusion, permeability mapping) and structural and functional connectivity, but also examples from functional kidney imaging and (image-based) systems biology will be presented. A major objective is also to give insight about the importance of mathematical models and computations in analysis and understanding of complex physiological processes, and the need of cross-disciplinary collaborations.
 
 You will find more detailed information about 
 this course at [MittUiB](http://mitt.uib.no/course/17428)).
