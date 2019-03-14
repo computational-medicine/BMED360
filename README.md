@@ -1,6 +1,6 @@
 # In Vivo Imaging and Physiological Modelling
 
-![BMED360 image](./assets/bmed360_logo.jpg)
+![BMED360 image](./assets/bmed360_logo.png)
 
 This is the repository for the course [BMED360](https://www.uib.no/en/course/BMED360) given at the Departmnet of Biomedicone (*)
 
