@@ -15,7 +15,8 @@ this course at [MittUiB](http://mitt.uib.no/course/17428)).
 
 **Follow the instructions at [Setting up your system](setup.md) to get ready**
 
-Note: To access the course notebooks interactively without downloading any software we are planning to use Binder
+Note: To access the course notebooks interactively without downloading any software we are planning to use [Binder](https://mybinder.org), see also
+[BinderHub](https://github.com/jupyterhub/binderhub)
 
 
 # Notebooks
@@ -36,16 +37,24 @@ Throughout the course you will work with notebooks that contain various material
 #### Major topics in the "In Vivo Imaging and Physiological Modelling" course are:
 
 
+[LECTURES](https://sites.google.com/site/bmed360/courses):
+
 - **Tools and Repositories**  (see also https://computingskillsforbiologists.com)
+- **Introduction to modelling, MRI and image processing** (link)
+- **Water diffusion and diffusion tensor MR Imaging (MR-DTI)** (part1) (part2)
+- **Blood perfusion and dynamic susceptibility contrast MR imaging (DSC-MRI)** (part1) (part2)
+- **Vascular permeability and T1-weighted dynamic contrast enhanced MRI (DCE-MRI)**
+- **Structural and functional brain connectivity using multimodal recordings** (link)
+- **Special topic** (e.g. Introduction to systems biology; On consciousness, resting state fMRI, and neurodynamics; [Deep learning in medical imaging with focus on MRI](https://www.sciencedirect.com/science/article/pii/S0939388918301181))  
 
 
-- **Complex network analysis**  
+[LABS](https://sites.google.com/site/bmed360/labs): 
 
+- **Lab 1** Image processing in PYTHON and MATLAB
+- **Lab 2** Multispectral imaging and tissue classification (machine learning; sepervised and unsupervised learning)
+- **Lab 3** Processing of diffusion MRI data (DTI and DSI)
+- **Lab 4** Processing of dynamic susceptibility contrast MR images (DSC-MRI) incl complex network analysis
+- **Lab 5** Vascular permeability mapping and Dynamic T1-weighted Contrast Enhanced MRI
+(DCE-MRI)
+- **Lab 6** Estimation and visualization of structural and functional brain connectivity
 
-- **Unsupervised learning**
-
-
-- **Supervised learning**
-
-
-- **Deep learning**
