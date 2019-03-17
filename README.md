@@ -38,23 +38,23 @@ ________________________________________________________________________________
 [LECTURES](https://sites.google.com/site/bmed360/courses):
 
 - **Lec 0: Tools and Repositories**  (see also https://computingskillsforbiologists.com)
-- **Lec 1: Introduction to modelling, MRI and image processing** (link)
-- **Lec 2 / 3: Water diffusion and diffusion tensor MR Imaging (MR-DTI)** (part1) (part2)
-- **Lec 4 / 5: Blood perfusion and dynamic susceptibility contrast MR imaging (DSC-MRI)** (part1) (part2)
+- **Lec 1: Introduction to modelling, MRI and image processing**
+- **Lec 2 & 3: Water diffusion and diffusion tensor MR Imaging (MR-DTI)** (part1) (part2)
+- **Lec 4 & 5: Blood perfusion and dynamic susceptibility contrast MR imaging (DSC-MRI)** (part1) (part2)
 - **Lec 6: Vascular permeability and T1-weighted dynamic contrast enhanced MRI (DCE-MRI)**
-- **Lec 7: Structural and functional brain connectivity using multimodal recordings** (link)
-- **Lec 8: Special topic** (e.g. Introduction to systems biology; On consciousness, resting state fMRI, and neurodynamics; [Deep learning in medical imaging with focus on MRI](https://www.sciencedirect.com/science/article/pii/S0939388918301181))  
+- **Lec 7: Structural and functional brain connectivity using multimodal recordings** 
+- **Lec 8: Special topic** (e.g. Introduction to systems biology; [On consciousness, resting state fMRI, and neurodynamics](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2880806); [Deep learning in medical imaging with focus on MRI](https://www.sciencedirect.com/science/article/pii/S0939388918301181))  
 
 
 [LABS](https://sites.google.com/site/bmed360/labs): 
 
 - **Lab 1** Image processing in PYTHON and MATLAB
-- **Lab 2** Multispectral imaging and tissue classification (machine learning; sepervised and unsupervised learning)
+- **Lab 2** Multispectral imaging and tissue classification (machine learning; supervised and unsupervised learning)
 - **Lab 3** Processing of diffusion MRI data (DTI and DSI)
-- **Lab 4** Processing of dynamic susceptibility contrast MR images (DSC-MRI) incl complex network analysis
+- **Lab 4** Processing of dynamic susceptibility contrast MR images (DSC-MRI) 
 - **Lab 5** Vascular permeability mapping and Dynamic T1-weighted Contrast Enhanced MRI
 (DCE-MRI)
-- **Lab 6** Estimation and visualization of structural and functional brain connectivity
+- **Lab 6** Estimation and visualization of structural and functional brain connectivity incl. complex network analysis
 
 
 
