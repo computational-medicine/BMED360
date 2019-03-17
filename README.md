@@ -56,3 +56,110 @@ ________________________________________________________________________________
 (DCE-MRI)
 - **Lab 6** Estimation and visualization of structural and functional brain connectivity
 
+
+
+<p>&nbsp;</p>
+<div><strong>Order of lectures and programming labs / demos (tentative schedule Spring 2019)</strong>:</div>
+<div>
+<table border="1" cellspacing="0">
+<tbody>
+<tr>
+<td>&nbsp;BLOCK 1</td>
+<td>&nbsp;Day 1 (April 24)</td>
+<td>&nbsp;Lec 1</td>
+<td>&nbsp;Lab &nbsp;1</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;Day 2 (April 26)</td>
+<td>&nbsp;Lec 2</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;Day 3 (April 29)</td>
+<td>&nbsp;Lec 3</td>
+<td>&nbsp;Lab 2</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;Day 4 (April 30)</td>
+<td>&nbsp;Lab 2 cont</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;Day 5 (May 3)</td>
+<td>&nbsp;Lab 3</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;Day 6 (May 6)</td>
+<td>&nbsp;Lec 4</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;Day 7 (May 7)</td>
+<td>&nbsp;Lec 5</td>
+<td>&nbsp;Lab 4</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;Day 8 (May 8)</td>
+<td>&nbsp;Lec 6</td>
+<td>&nbsp;Lab 5</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;Day 9 (May 13)</td>
+<td>&nbsp;Lec 7</td>
+<td>&nbsp;Lab 6</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;Day 10 (May 14)</td>
+<td>&nbsp;Home prj</td>
+<td>&nbsp;present</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;</td>
+<td>&nbsp;HOME<br />PROJECT</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;BLOCK 2</td>
+<td>&nbsp;Day 11 (June 3)</td>
+<td>&nbsp;Home<span>&nbsp;</span><br />project results&nbsp;</td>
+<td>&nbsp;Lec 8</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;Day 12 (June 4)</td>
+<td>&nbsp;Exam<br />&nbsp;prep.</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;Day 13 (June 5)</td>
+<td>&nbsp;Q &amp; A</td>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;Day 14 (June 6)</td>
+<td>&nbsp;Exam<br />&nbsp;&nbsp;prep.</td>
+<td>&nbsp;MC /<br />&nbsp;quiz<br />&nbsp;exam</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td>&nbsp;Day 15 (June 7)</td>
+<td>Oral exam</td>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>&nbsp;</p>
