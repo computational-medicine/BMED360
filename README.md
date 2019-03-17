@@ -37,13 +37,13 @@ ________________________________________________________________________________
 
 [LECTURES](https://sites.google.com/site/bmed360/courses):
 
-- **Tools and Repositories**  (see also https://computingskillsforbiologists.com)
-- **Introduction to modelling, MRI and image processing** (link)
-- **Water diffusion and diffusion tensor MR Imaging (MR-DTI)** (part1) (part2)
-- **Blood perfusion and dynamic susceptibility contrast MR imaging (DSC-MRI)** (part1) (part2)
-- **Vascular permeability and T1-weighted dynamic contrast enhanced MRI (DCE-MRI)**
-- **Structural and functional brain connectivity using multimodal recordings** (link)
-- **Special topic** (e.g. Introduction to systems biology; On consciousness, resting state fMRI, and neurodynamics; [Deep learning in medical imaging with focus on MRI](https://www.sciencedirect.com/science/article/pii/S0939388918301181))  
+- **Lec 0: Tools and Repositories**  (see also https://computingskillsforbiologists.com)
+- **Lec 1: Introduction to modelling, MRI and image processing** (link)
+- **Lec 2 / 3: Water diffusion and diffusion tensor MR Imaging (MR-DTI)** (part1) (part2)
+- **Lec 4 / 5: Blood perfusion and dynamic susceptibility contrast MR imaging (DSC-MRI)** (part1) (part2)
+- **Lec 6: Vascular permeability and T1-weighted dynamic contrast enhanced MRI (DCE-MRI)**
+- **Lec 7: Structural and functional brain connectivity using multimodal recordings** (link)
+- **Lec 8: Special topic** (e.g. Introduction to systems biology; On consciousness, resting state fMRI, and neurodynamics; [Deep learning in medical imaging with focus on MRI](https://www.sciencedirect.com/science/article/pii/S0939388918301181))  
 
 
 [LABS](https://sites.google.com/site/bmed360/labs): 
