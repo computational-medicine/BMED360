@@ -2,22 +2,23 @@
 
 ![BMED360 image](./assets/bmed360_logo.png)
 
-This is the repository for the course [BMED360](https://www.uib.no/en/course/BMED360) given at the Departmnet of Biomedicone (*)
-(*) Biomedicine covers those areas of human biology, chemistry and medicine that seek to explain the factors behind health and disease at the molecular and cellular level. This information is applied in the development of better diagnostics and treatments.
-(*) Biomedicine covers those areas of human biology, chemistry and medicine that seek to explain the factors behind health and disease at the molecular and cellular level. This information is applied in the development of better diagnostics and treatments.
+This is the repository for the course [BMED360](https://www.uib.no/en/course/BMED360) given at the Department of Biomedicine<br>
+
+(*) Biomedicine covers those areas of human biology, chemistry and medicine that seek to explain the factors behind health and disease at the molecular and cellular level. This information is applied in the development of better diagnostics and treatments.<br>
+
 Here you find code and documentation for the course. 
 
 The goal of this course is to obtain theoretical and practical knowledge on functional and quantitative in vivo imaging in man and animal using magnetic resonance imaging (MRI) and computer-based image analysis. The focus is on brain imaging (perfusion, diffusion, permeability mapping) and structural and functional connectivity, but also examples from functional kidney imaging and (image-based) systems biology will be presented. A major objective is also to give insight about the importance of mathematical models and computations in analysis and understanding of complex physiological processes, and the need of cross-disciplinary collaborations.
 
 You will find more detailed information about 
-this course at [MittUiB](http://mitt.uib.no/course/17428)).
+this course at [MittUiB](http://mitt.uib.no/course/17428).
 
 # Setting up your system
 
-**Follow the instructions at [Setting up your system](setup.md) to get ready**
+**Follow the instructions at [Setting up your system](setup.md) (`setup.md`) to get ready**
 
 Note: To access the course notebooks interactively without downloading any software we are planning to use [Binder](https://mybinder.org), see also
-[BinderHub](https://github.com/jupyterhub/binderhub)
+[BinderHub](https://github.com/jupyterhub/binderhub).
 
 
 # Notebooks
@@ -27,11 +28,11 @@ Throughout the course you will work with notebooks that contain various material
 
 
 ## Get started - test your environment
-* [Python, Numpy, Pandas, Matplotlib, Nibabel, Biopython and more](notebooks/0.0-test.ipynb): run through this notebook to check that your environment is OK.
+* [Python, Numpy, Pandas, Matplotlib, Nibabel, Biopython and more](notebooks/0.0-test.ipynb): run through this notebook (`notebooks/0.0-test.ipynb`) to check that your environment is OK.<br>
 
+-------------------------------------------------------------------------------------- <br>
 
-
-### Major topics in the "In Vivo Imaging and Physiological Modelling" course are:
+## Major topics in the "In Vivo Imaging and Physiological Modelling" course are:
 
 
 [LECTURES](https://sites.google.com/site/bmed360/courses):
