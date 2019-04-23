@@ -37,7 +37,7 @@ ________________________________________________________________________________
 
 [LECTURES](https://sites.google.com/site/bmed360/courses):
 
-- **Lec 0: Tools and Repositories**  (see also https://computingskillsforbiologists.com)
+- **Lec 0: [Course overview](https://docs.google.com/presentation/d/1bBlf3NSL8BfmqRvN99-0hUY2Yqm5KjVgCJ3pVZw0PRA/edit?usp=sharing); [SW installation](setup.md), tools and repositories**  (see also https://computingskillsforbiologists.com)
 - **Lec 1: Introduction to modelling, MRI and image processing**
 - **Lec 2 & 3: Water diffusion and diffusion tensor MR Imaging (MR-DTI)** (part1) (part2)
 - **Lec 4 & 5: Blood perfusion and dynamic susceptibility contrast MR imaging (DSC-MRI)** (part1) (part2)
