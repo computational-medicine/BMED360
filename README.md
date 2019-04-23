@@ -48,7 +48,7 @@ ________________________________________________________________________________
 
 [LABS](https://sites.google.com/site/bmed360/labs): 
 
-- **Lab 1** Image processing in PYTHON and MATLAB
+- **Lab 1** Data analysis and immage processing in PYTHON (and MATLAB) - [0.0-test.ipynb](./notebooks/0.0-test.ipynb), [0.1-python.ipynb](./notebooks/0.1-python.ipynb), [0.2-pandas.ipynb](./notebooks/0.2-pandas.ipynb), [1.1-kiwi.ipynb](./notebooks/1.1-kiwi.ipynb)
 - **Lab 2** Multispectral imaging and tissue classification (machine learning; supervised and unsupervised learning)
 - **Lab 3** Processing of diffusion MRI data (DTI and DSI)
 - **Lab 4** Processing of dynamic susceptibility contrast MR images (DSC-MRI) 
