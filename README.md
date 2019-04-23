@@ -48,9 +48,9 @@ ________________________________________________________________________________
 
 [LABS](https://sites.google.com/site/bmed360/labs): 
 
-- **Lab 1** Data analysis and image processing in PYTHON (and MATLAB) - [[0.0-test.ipynb]](./notebooks/0.0-test.ipynb), [[0.1-python.ipynb]](./notebooks/0.1-python.ipynb), [[0.2-pandas.ipynb]](./notebooks/0.2-pandas.ipynb), [[1.1-kiwi.ipynb]](./notebooks/1.1-kiwi.ipynb)
-- **Lab 2** Multispectral imaging and tissue classification (machine learning; supervised and unsupervised learning) - [[1.0-mri.ipynb]](./notebooks/1.0-mri.ipynb), [[1.2-mri-dcm2niix.ipynb]](./notebooks/1.2-mri-dcm2niix.ipynb)
-- **Lab 3** Processing of diffusion MRI data (DTI and DSI) - [[3.0-diffusion-mri.ipynb]](./notebooks/3.0-diffusion-mri.ipynb)
+- **Lab 1** Data analysis and image processing in PYTHON (and MATLAB) - [[0.0-test.ipynb](./notebooks/0.0-test.ipynb)], [[0.1-python.ipynb](./notebooks/0.1-python.ipynb)], [[0.2-pandas.ipynb](./notebooks/0.2-pandas.ipynb)], [[1.1-kiwi.ipynb](./notebooks/1.1-kiwi.ipynb)]
+- **Lab 2** Multispectral imaging and tissue classification (machine learning; supervised and unsupervised learning) - [[1.0-mri.ipynb](./notebooks/1.0-mri.ipynb)], [[1.2-mri-dcm2niix.ipynb](./notebooks/1.2-mri-dcm2niix.ipynb)]
+- **Lab 3** Processing of diffusion MRI data (DTI and DSI) - [[3.0-diffusion-mri.ipynb](./notebooks/3.0-diffusion-mri.ipynb)]
 - **Lab 4** Processing of dynamic susceptibility contrast MR images (DSC-MRI) 
 - **Lab 5** Vascular permeability mapping and Dynamic T1-weighted Contrast Enhanced MRI
 (DCE-MRI)
