@@ -18,7 +18,7 @@ this course at [MittUiB](http://mitt.uib.no/course/17428).
 **Follow the instructions at [Setting up your system](setup.md) (`setup.md`) to get ready**
 
 Note: To access the course notebooks interactively without downloading any software we are planning to use [Binder](https://mybinder.org), see also
-[BinderHub](https://github.com/jupyterhub/binderhub).
+[BinderHub](https://github.com/jupyterhub/binderhub) and [try Jupyter without installing anything](https://jupyter.org/try)
 
 
 # Notebooks
