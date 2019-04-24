@@ -19,7 +19,8 @@ this course at [MittUiB](http://mitt.uib.no/course/17428).
 
 Note: To access the course notebooks interactively without downloading any software we are planning to use [Binder](https://mybinder.org), see also
 [BinderHub](https://github.com/jupyterhub/binderhub) and [try Jupyter without installing anything](https://jupyter.org/try) and
-the [BMED360 Binder test](https://mybinder.org/v2/gh/computational-medicine/BMED360/master?urlpath=https%3A%2F%2Fgithub.com%2Fcomputational-medicine%2FBMED360%2Fblob%2Fmaster%2Fnotebooks%2F0.0-test.ipynb)
+the [BMED360 Binder test](https://mybinder.org/v2/gh/computational-medicine/BMED360/master?urlpath=https%3A%2F%2Fgithub.com%2Fcomputational-medicine%2FBMED360%2Fblob%2Fmaster%2Fnotebooks%2F1.0-mri.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/computational-medicine/BMED360/master?filepath=https%3A%2F%2Fgithub.com%2Fcomputational-medicine%2FBMED360%2Fblob%2Fmaster%2Fnotebooks%2F1.0-mri.ipynb)
 
 
 # Notebooks
