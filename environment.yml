@@ -41,6 +41,7 @@ dependencies:
   - wand
   - python-louvain
   - pandas_ml
+  - pyradiomics
 # - python-igraph (needs a workaround for Windows)
 # pip install .\python_igraph-0.7.1.post6-cp37-cp37m-win_amd64.whl
 # pip install py2cytoscape
