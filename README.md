@@ -41,7 +41,7 @@ ________________________________________________________________________________
 
 - **Lec 0: [Course overview](https://docs.google.com/presentation/d/1bBlf3NSL8BfmqRvN99-0hUY2Yqm5KjVgCJ3pVZw0PRA/edit?usp=sharing); [SW installation](setup.md), tools and repositories**  (see also https://computingskillsforbiologists.com)
 - **Lec 1: Introduction to modelling, MRI and image processing** [[gslides](https://docs.google.com/presentation/d/1-Mfsun9_yc1xsIfeIRIT3JZHLN5r_42wuKxt9HLUa38/edit?usp=sharing)]
-- **Lec 2 & 3: Water diffusion and diffusion tensor MR Imaging (MR-DTI)** [[part1](https://docs.google.com/presentation/d/1qMxwu401az5zgq6Rg5M7kOtygdeosnMeSucvy7SSbNk/edit?usp=sharing)] [part2](https://docs.google.com/presentation/d/11Xb5AmhG0bpkK6Kx7hY99HNMudPFPCpxfkGQsIslOJM/edit?usp=sharing)]
+- **Lec 2 & 3: Water diffusion and diffusion tensor MR Imaging (MR-DTI)** [[part1](https://docs.google.com/presentation/d/1qMxwu401az5zgq6Rg5M7kOtygdeosnMeSucvy7SSbNk/edit?usp=sharing)] [[part2](https://docs.google.com/presentation/d/11Xb5AmhG0bpkK6Kx7hY99HNMudPFPCpxfkGQsIslOJM/edit?usp=sharing)]
 - **Lec 4 & 5: Blood perfusion and dynamic susceptibility contrast MR imaging (DSC-MRI)** (part1) (part2)
 - **Lec 6: Vascular permeability and T1-weighted dynamic contrast enhanced MRI (DCE-MRI)**
 - **Lec 7: Structural and functional brain connectivity using multimodal recordings** 
