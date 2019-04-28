@@ -15,6 +15,7 @@ dependencies:
 - conda-forge::jupyterlab
 - conda-forge::statsmodels
 - conda-forge::biopython
+- conda-forge::graphviz
 # - conda-forge::dcm2niix
 - scipy
 - seaborn
@@ -29,7 +30,6 @@ dependencies:
   - opencv-python
   - scikit-image
   - kaggle
-  - graphviz
   - networkx
   - pandas-profiling
   - xlrd
@@ -43,6 +43,7 @@ dependencies:
   - pandas_ml
   - pyradiomics
   - fury
+  - plotly
 # - python-igraph (needs a workaround for Windows)
 # pip install .\python_igraph-0.7.1.post6-cp37-cp37m-win_amd64.whl
 # pip install py2cytoscape
