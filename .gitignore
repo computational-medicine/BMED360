@@ -18,3 +18,5 @@ unsynceddata/
 # .md files
 *.md.save
 
+# my_*.ipynb files
+my_*.ipynb
