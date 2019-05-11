@@ -44,7 +44,7 @@ ________________________________________________________________________________
 - **Lec 2 & 3: Water diffusion and diffusion tensor MR Imaging (MR-DTI)** [[part1](https://docs.google.com/presentation/d/1qMxwu401az5zgq6Rg5M7kOtygdeosnMeSucvy7SSbNk/edit?usp=sharing)] [[part2](https://docs.google.com/presentation/d/11Xb5AmhG0bpkK6Kx7hY99HNMudPFPCpxfkGQsIslOJM/edit?usp=sharing)]
 - **Lec 4 & 5: Blood perfusion and dynamic susceptibility contrast MR imaging (DSC-MRI)** (PPT: [part1](https://drive.google.com/file/d/1BNp_34DfjU6tEAnPT_wqdIN_DxtH8Txs/view?usp=sharing)) (PPT: [part2](https://drive.google.com/file/d/1Xnvp5oTlgi7OUbF-LPBVF9N_3zf7-u94/view?usp=sharing))
 - **Lec 6: Vascular permeability and T1-weighted dynamic contrast enhanced MRI (DCE-MRI)** [[gslides](https://docs.google.com/presentation/d/1EYuKHtQM4RIgkvIxrMyAkq02l8KUd9WuCsjCHviBaKI/edit?usp=sharing)]
-- **Lec 7: Structural and functional brain connectivity using multimodal recordings** 
+- **Lec 7: Structural and functional brain connectivity using multimodal recordings** [[gslides](https://docs.google.com/presentation/d/142Y5wQKkIvRkcmBiSV2INDhuMdRHrpPhxqs2zx17ZCY/edit?usp=sharing)]
 - **Lec 8: Special topic** (e.g. Introduction to systems biology; [On consciousness, resting state fMRI, and neurodynamics](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2880806); [Deep learning in medical imaging with focus on MRI](https://www.sciencedirect.com/science/article/pii/S0939388918301181))  
 
 
