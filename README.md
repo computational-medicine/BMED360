@@ -56,7 +56,7 @@ ________________________________________________________________________________
 - **Lab 4** Processing of dynamic susceptibility contrast MR images (DSC-MRI) [[4.0-perfusion-mri.ipynb](./notebooks/4.0-perfusion-mri.ipynb)]
 - **Lab 5** Vascular permeability mapping and Dynamic T1-weighted Contrast Enhanced MRI
 (DCE-MRI)
-- **Lab 6** Estimation and visualization of structural and functional brain connectivity incl. complex network analysis
+- **Lab 6** Estimation and visualization of structural and functional brain connectivity incl. complex network analysis  [[6.0-brain-connectivity-nilearn.ipynb](./notebooks/6.0-brain-connectivity-nilearn.ipynb)]
 
 
 
