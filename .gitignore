@@ -20,3 +20,6 @@ unsynceddata/
 
 # my_*.ipynb files
 my_*.ipynb
+
+# Nilearn
+nilearn_cache
