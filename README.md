@@ -58,7 +58,7 @@ ________________________________________________________________________________
 (DCE-MRI)
 - **Lab 6** Estimation and visualization of structural and functional brain connectivity incl. complex network analysis  [[6.0-brain-connectivity-nilearn.ipynb](./notebooks/6.0-brain-connectivity-nilearn.ipynb)]
 
-The [[Kiwi seed segmentation challenge](./notebooks/1.5-mri-kiwi-seed-segmentation.ipynb)] 
+[[KIWI SEED SEGMENTATION CHALLENGE](./notebooks/1.5-mri-kiwi-seed-segmentation.ipynb)] 
 
 
 <p>&nbsp;</p>
