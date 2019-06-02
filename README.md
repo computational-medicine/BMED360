@@ -60,6 +60,7 @@ ________________________________________________________________________________
 
 [[KIWI SEED SEGMENTATION CHALLENGE](./notebooks/1.5-mri-kiwi-seed-segmentation.ipynb)] 
 
+**Q&A topics** [gslides](https://docs.google.com/presentation/d/1-9HeVb1ewBLVVxcrh2-JRnepcPxPisZW_tgSfYVYp54/edit?usp=sharing)=
 
 <p>&nbsp;</p>
 <div><strong>Order of lectures and programming labs / demos (tentative schedule Spring 2019)</strong>:</div>
