@@ -62,7 +62,7 @@ ________________________________________________________________________________
 
 **Q&A topics** [[gslides](https://docs.google.com/presentation/d/1-9HeVb1ewBLVVxcrh2-JRnepcPxPisZW_tgSfYVYp54/edit?usp=sharing)]
 
-**[Schedule](https://docs.google.com/presentation/d/1QmLPof1lMRLO7JJ7fk_dvqsJUQ89pBKZNwDXy6V20rM/edit?usp=sharing) for Block2 (June 3-7, 2019)**
+**[[Schedule](https://docs.google.com/presentation/d/1QmLPof1lMRLO7JJ7fk_dvqsJUQ89pBKZNwDXy6V20rM/edit?usp=sharing)] for Block2 (June 3-7, 2019)**
 
 <p>&nbsp;</p>
 <div><strong>Order of lectures and programming labs / demos (tentative schedule Spring 2019)</strong>:</div>
