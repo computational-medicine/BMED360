@@ -32,7 +32,7 @@ Throughout the course you will work with notebooks that contain various material
 ## Get started - test your environment
 * [Python, Numpy, Pandas, Matplotlib, Nibabel, Biopython and more](notebooks/0.0-test.ipynb): run through this notebook (`notebooks/0.0-test.ipynb`) to check that your environment is OK.<br>
 
-______________________________________________________________________________________________________________________________<br>
+___________________________________________________________________________________________________________<br>
 
 ## Major topics in the "In Vivo Imaging and Physiological Modelling" course are:
 
@@ -65,7 +65,7 @@ ________________________________________________________________________________
 
 **Tentative schedule Spring 2020**
 
-p>&nbsp;</p>
+<p>&nbsp;</p>
 <div><strong>Tentative order of lectures and programming labs / demos (Spring 2020)</strong>:</div>
 <div>
 <table border="1" cellspacing="0">
