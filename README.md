@@ -63,7 +63,7 @@ ________________________________________________________________________________
 **Q&A topics** [[gslides](https://docs.google.com/presentation/d/1-9HeVb1ewBLVVxcrh2-JRnepcPxPisZW_tgSfYVYp54/edit?usp=sharing)]
 
 
-**Tentative schedule Spring 2020**
+## Tentative schedule Spring 2020
 
 <p>&nbsp;</p>
 <div><strong>Tentative order of lectures and programming labs / demos (Spring 2020)</strong>:</div>
